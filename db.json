@@ -31,6 +31,24 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "location": "Knoxville",
+      "image": "https://m.media-amazon.com/images/I/51IxASXz70L._AC_SL1000_.jpg",
+      "description": "Pink Telephone",
+      "id": 8
+    },
+    {
+      "location": "Kensington",
+      "image": "https://www.used.forsale/sh-img/135818876_4195726377108868_2297111097181570700_o_hydro%2Bflask.jpg",
+      "description": "Great sports water bottle",
+      "id": 9
+    },
+    {
+      "location": "Manhattan",
+      "image": "https://i.redd.it/wjanzidhr0631.jpg",
+      "description": "Great TV, 2001, Works Great",
+      "id": 10
     }
   ]
 }
